@@ -59,7 +59,7 @@ GitHub Actions Maven Deploy Sample Repository
         <server>
             <id>github</id>
             <username>GitHub 账号</username>
-            <password>GitHub Token</password>
+            <password>GitHub 密码</password>
         </server>
     </servers>
 ```
